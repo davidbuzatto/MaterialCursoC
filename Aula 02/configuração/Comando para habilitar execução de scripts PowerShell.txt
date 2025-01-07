@@ -1,0 +1,3 @@
+Abrir uma instância do PowerShell como administrador
+    - Clicar com o botão direito e escolher "Executar como Administrador";
+Executar o comando: Set-ExecutionPolicy -ExecutionPolicy Bypass -Force

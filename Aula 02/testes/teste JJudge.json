@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Teste de instalação do ambiente de desenvolvimento",
+    "programmingLanguage": "C",
+    "tests": [
+      {
+        "name": "teste",
+        "presentationName": "Teste",
+        "testCases": [
+          {
+            "input": "",
+            "output": "testando!"
+          }
+        ]
+      }
+    ]
+  }
+]
